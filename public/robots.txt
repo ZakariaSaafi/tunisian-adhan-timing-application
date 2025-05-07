@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adhantn.netlify.app/sitemap.xml
